@@ -1,0 +1,2 @@
+cd tfoptflow
+python pwcnet_predict_from_img_pairs.py
